@@ -1,5 +1,5 @@
 <?php 
-
+namespace mertbuldur;
 class mHelper 
 { 
 	static function getSymbolByQuantity($bytes)
