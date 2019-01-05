@@ -1,7 +1,7 @@
 <?php 
 namespace mertbuldur;
 class mHelper 
-{ 
+{
 	static function getSymbolByQuantity($bytes)
     {
         $symbols = array('B', 'KiB', 'MiB', 'GiB', 'TiB', 'PiB', 'EiB', 'ZiB', 'YiB');
