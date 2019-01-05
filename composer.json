@@ -1,13 +1,12 @@
 {
 	"name":"buldurmert/m-helper",
 	"description":"Test",
-	"version":0.1,
-	"author":[
+	"authors":[
 		{
 			"name":"Mert Buldur",
 			"email":"Buldurmert@gmail.com"
 		}],
 	"require":{
-		"php": ">=5.6",
+
 	}
 }
