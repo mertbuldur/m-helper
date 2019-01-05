@@ -8,6 +8,6 @@
 			"email":"Buldurmert@gmail.com"
 		}],
 	"require":{
-
+		"php": ">=5.6",
 	}
 }
